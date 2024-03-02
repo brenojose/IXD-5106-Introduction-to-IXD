@@ -1,0 +1,32 @@
+Introdution to IXD
+
+5d int. design
+words, visual representation, physical obj. or space, time, behaviour
+
+-elements of ixd
+ .motion
+ .space
+ .time
+ .appearance
+ .texture
+ .sound
+
+ - laws of ixd
+ .hick's law
+ .fitts law
+ .teslers law
+ .poka yoke principle
+ . direct n indirect manipulation
+
+ - aesthetics of ixd
+ .design diff. art
+
+ - figma tutorial
+ - figma community
+
+___________________________________________________
+
+Class 02 - IXD-5106
+
+
+
